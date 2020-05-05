@@ -14,7 +14,7 @@ window.width = 640
 window.height = 480
 window.title("test")
 
-local part = ga,part()
+local part = game_engine.part()
 
 part.width = 50
 part.height = 60

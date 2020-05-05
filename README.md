@@ -27,5 +27,5 @@ function love.load()
 end
 
 function love.draw()
-  love.graphics.retangle(part.mode, part.width, part.height, part.x, part.y)
+  love.graphics.retangle(part.mode, part.x, part.y, part.width, part.height)
 end

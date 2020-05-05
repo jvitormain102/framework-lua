@@ -9,7 +9,10 @@ function game.new()
 end
 
 function game.part()
+  
+  --part if want to put any rectangle in the game
   return{
+    mode = mode,
     width = width,
     height = height,
     x = x,

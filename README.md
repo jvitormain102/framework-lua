@@ -1,4 +1,4 @@
-# game-engine-lua
+# framework-lua
 this framework help you to create games with love 2d
 
 
